@@ -1,0 +1,28 @@
+<Funds>
+    <fund name="A1" url="http://hq.sinajs.cn/list=sz399006">
+        <basedata>
+            <index>2000.00</index>
+            <account>800.00</account>
+            <maxdroprange>0.0093</maxdroprange>
+            <maxinterval>7</maxinterval>
+        </basedata>
+        <record>
+            <lastpurchaseindex>1904.68</lastpurchaseindex>
+            <lastpurchasedate>2017-02-10</lastpurchasedate>
+            <currentindex>0.000</currentindex>
+        </record>
+    </fund>
+    <fund name="A2" url="http://hq.sinajs.cn/list=s_sh000001">
+        <basedata>
+            <index>3000.00</index>
+            <account>1000.00</account>
+            <maxdroprange>0.00</maxdroprange>
+            <maxinterval>0</maxinterval>
+        </basedata>
+        <record>
+            <lastpurchaseindex>3229.6184</lastpurchaseindex>
+            <lastpurchasedate>2017-02-16</lastpurchasedate>
+            <currentindex>3229.6184</currentindex>
+        </record>
+    </fund>
+</Funds>
