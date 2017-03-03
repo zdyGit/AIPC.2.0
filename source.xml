@@ -7,9 +7,9 @@
             <maxinterval>7</maxinterval>
         </basedata>
         <record>
-            <lastpurchaseindex>1938.444</lastpurchaseindex>
-            <lastpurchasedate>2017-02-24</lastpurchasedate>
-            <currentindex>1931.968</currentindex>
+            <lastpurchaseindex>1928.289</lastpurchaseindex>
+            <lastpurchasedate>2017-03-03</lastpurchasedate>
+            <currentindex>1928.289</currentindex>
         </record>
     </fund>
     <fund name="A2" url="http://hq.sinajs.cn/list=s_sh000001">
@@ -22,7 +22,7 @@
         <record>
             <lastpurchaseindex>3202.0756</lastpurchaseindex>
             <lastpurchasedate>2017-02-17</lastpurchasedate>
-            <currentindex>3243.1771</currentindex>
+            <currentindex>3214.9947</currentindex>
         </record>
     </fund>
 </Funds>
