@@ -12,6 +12,8 @@ def FundFactory(fundname):
 		basefund = A1.A1()
 	elif fundname == "A2":
 		basefund = A2.A2()
+	elif fundname == "A3":
+		basefund = A3.A3()
 	return basefund
 
 
